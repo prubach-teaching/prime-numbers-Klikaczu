@@ -22,7 +22,6 @@ public class PrimeNumbers {
             }
             x++;
         }
-        System.out.print("n = " + n + " ");
 
         for(int i=0;i<n;i++) {
             if(i==n-1)
